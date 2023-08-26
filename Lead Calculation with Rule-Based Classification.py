@@ -19,7 +19,7 @@
 # This means that the table is not deduplicated. In other words, a user with certain demographic characteristics may have
 # made more than one purchase.
 
-#Columns
+# Columns
 # Price: Customer spend amount
 # Source: The type of device the customer is connected with
 # Sex: Gender of the customer
